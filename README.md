@@ -55,7 +55,7 @@ Wenn Sie Windows nutzen, überspringen Sie diesen Schritt (CLion bringt unter Wi
 
 Sie benötigen einen C++ Compiler. Sie sollten aus anderen Veranstaltungen üblicherweise bereits eine lauffähige
 Installation haben. Testen Sie dies, indem Sie ein Terminal/Konsole öffnen und `g++` eintippen. Sie sollten eine
-Ausgabe `Error: no input files` o.ä. sehen. In diesem Falle machen Sie mit Schritt 2 weiter!
+Ausgabe `Error: no input files` o.ä. sehen. In diesem Falle machen Sie mit Schritt 3 weiter!
 
 Sehen sie etwas wie `Command not found: g++`, müssen Sie den Compiler erst noch installieren. Führen Sie folgenden
 Befehl im Terminal aus:
